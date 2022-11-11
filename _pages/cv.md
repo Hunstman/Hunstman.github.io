@@ -28,6 +28,9 @@ Education
 
 Publications & preprints
 ======
+* [Unsteady and inertial dynamics of a small active particle in a fluid](https://journals.aps.org/prfluids/pdf/10.1103/PhysRevFluids.7.044304)
+* [Hydrodynamic force on a small squirmer moving with a time-dependent velocity at small Reynolds numbers](https://arxiv.org/abs/2209.08138)
+  
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
