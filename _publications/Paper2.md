@@ -3,7 +3,7 @@ title: "Hydrodynamic force on a small squirmer moving with a time-dependent velo
 collection: publications
 permalink: /publication/Paper2
 excerpt: ''
-date: 16 Spet 2022
+date: 16 Sept 2022
 venue: 'Preprint'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: ''
