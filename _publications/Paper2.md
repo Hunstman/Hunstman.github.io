@@ -5,7 +5,7 @@ permalink: /publication/Paper2
 excerpt: ''
 date: 16 Sept 2022
 venue: 'Preprint'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://arxiv.org/pdf/2209.08138.pdf'
 citation: ''
 ---
 
