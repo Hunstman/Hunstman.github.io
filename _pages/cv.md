@@ -17,7 +17,7 @@ Research experience
 
 * Jan - May 2022: PhD Visiting
   * USC, University of Southern California
-  * **Supervisor**: Professor [Eva Kanso](https://sites.usc.edu/kansolab/) 
+  * **Supervisor**: Eva Kanso
  
 Education
 ======
@@ -50,7 +50,7 @@ Talks
   {% endfor %}</ul>
   
 Teaching
-======
+ ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
