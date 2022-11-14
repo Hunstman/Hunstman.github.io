@@ -29,11 +29,11 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark"# "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "Did on 11 Nov 2022."
+  commitMessage          : "Updated on 14 Nov 2022."
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Tommaso Redaelli"
   avatar           : "scholar_photo2.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Physics passionate"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=BCpSNJkAAAAJ&hl=it"
+  email            : "tommasoredael.1994@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Hunstman"
   google_plus      :
   keybase          :
   instagram        :
