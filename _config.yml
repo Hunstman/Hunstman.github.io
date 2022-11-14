@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Tommaso Redaelli"
   avatar           : "scholar_photo2.jpg"
-  bio              : "Physics passionate"
-  location         : "Location"
+  bio              : "Physics passionate and Trail Runner"
+  location         : # "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BCpSNJkAAAAJ&hl=it"
   email            : "tommasoredael.1994@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
