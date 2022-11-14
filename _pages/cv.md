@@ -17,13 +17,21 @@ Research experience
 
 * Jan - May 2022: PhD Visiting
   * USC, University of Southern California
-  * Supervisor: Professor [Eva Kanso](https://sites.usc.edu/kansolab/) 
+  * **Supervisor**: Professor [Eva Kanso](https://sites.usc.edu/kansolab/) 
  
 Education
 ======
+* Ph.D. in Physics, Aix-Marseille University
+  * **Title**: How copepods use hydordynamics signals to see?
+  * **Supervisor**: Christophe Eloy
+  * **Co-supervisor**: Fabien Candelier
+  * **Interests**: Fluid inertial effects on microorganisms locomotion, microorganisms tracking abilities 
+* Master Degree in Physics of Complex Systems, Politecnico di Torino e Paris Diderot, 2019 
+  * **Title**: Non Perturbative Renormalization Group Approach to Kraichnan Model: Calculation of the two point Correlation Function
+  * **Supervisor**: L. Canet
+  * **Interests**: Functional renormalization group. Statistical turbulence.
+
 * B.S. in Physics, Università degli studi di Milano, 2016
-* M.S. in Physics of Complex Systems, Politecnico di Torino e Paris Diderot, 2019
-* Candidate Ph.D student in Biophysics and Fluid Mechanics, Aix-Marseille Université, 2022 (expected)
 
 
 Publications & preprints
@@ -31,12 +39,12 @@ Publications & preprints
 * [Unsteady and inertial dynamics of a small active particle in a fluid](https://journals.aps.org/prfluids/pdf/10.1103/PhysRevFluids.7.044304)
 * [Hydrodynamic force on a small squirmer moving with a time-dependent velocity at small Reynolds numbers](https://arxiv.org/abs/2209.08138)
   
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
+* **Efficient strategy to track a planktonic target from its hydrodynamic signature
+* [Hydrodynamic force on a small squirmer moving with a time-dependent velocity at small Reynolds numbers](https://arxiv.org/abs/2209.08138)
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
