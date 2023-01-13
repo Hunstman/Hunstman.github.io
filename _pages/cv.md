@@ -60,6 +60,7 @@ Talks
   
 Teaching
  ======
+ 
   <ul>{% for post in site.teaching %}
   
   - Management of a group of students in charge of  creating an autonomous robot capable of exploring an elastic surface, of measuring its curvature and of responding autonomously with a pre-set policy.
