@@ -61,8 +61,11 @@ Talks
 Teaching
  ======
   <ul>{% for post in site.teaching %}
+  
   - Management of a group of students in charge of  creating an autonomous robot capable of exploring an elastic surface, of measuring its curvature and of responding autonomously with a pre-set policy.
+  
     {% include archive-single-cv.html %}
+  
   - Management of a group of students in charge of calculating the environmental impact of the IRPHE research laboratory in Marseille through LCA assessments of the instrumentation present in the laboratory or purchased. Creation of a data collection system about the environmental impact of the instrumentation used in the laboratory.
   {% endfor %}</ul>
   
