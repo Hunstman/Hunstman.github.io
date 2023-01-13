@@ -42,20 +42,21 @@ Publications & preprints
   
 Talks
 ======
-* **Title**: Efficient strategy to track a planktonic target from its hydrodynamic signature
-* **Venue**: Conference Hall Phoenix
-* **Conference**: APS Meeting - Fluid Dynamics division
-* **Date**: Nov 2021
-
-* **Title**: Hydrodynamic force on a small squirmer moving with a time-dependent velocity at small Reynolds numbers.
-* **Venue**: Conference Hall Milan
-* **Conference**: ICTAM
-* **Date**: Aug 2021
-
-* **Title**: Flow field induced by a small squirmer moving with a time-dependent velocity at small Reynolds numbers.
-* **Venue**: Conference Hall Athens
-* **Conference**: EFMC
-* **Date**: Sept 2022
+* Talk in Phoenix
+  * **Title**: Efficient strategy to track a planktonic target from its hydrodynamic signature
+  * **Venue**: Conference Hall Phoenix
+  * **Conference**: APS Meeting - Fluid Dynamics division
+  * **Date**: Nov 2021
+* Talk in Milan
+  * **Title**: Hydrodynamic force on a small squirmer moving with a time-dependent velocity at small Reynolds numbers.
+  * **Venue**: Conference Hall Milan
+  * **Conference**: ICTAM
+  * **Date**: Aug 2021
+* Talk in Athens
+  * **Title**: Flow field induced by a small squirmer moving with a time-dependent velocity at small Reynolds numbers.
+  * **Venue**: Conference Hall Athens
+  * **Conference**: EFMC
+  * **Date**: Sept 2022
   
 Teaching
  ======
