@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "LCA Analysis"
 collection: teaching
-type: "Workshop"
+type: "Master course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Aix - Marseille University"
+date:  Sep - Dec 2021
+location: "Marseille, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Management of a group of students in charge of calculating the environmental impact of the IRPHE research laboratory in Marseille through LCA assessments of the instrumentation present in the laboratory or purchased. Creation of a data collection system about the environmental impact of the instrumentation used in the laboratory.
