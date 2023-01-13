@@ -42,18 +42,26 @@ Publications & preprints
   
 Talks
 ======
-* **Efficient strategy to track a planktonic target from its hydrodynamic signature
-* [Hydrodynamic force on a small squirmer moving with a time-dependent velocity at small Reynolds numbers](https://arxiv.org/abs/2209.08138)
+* **Title**: Efficient strategy to track a planktonic target from its hydrodynamic signature
+* **Venue**: Conference Hall Phoenix
+* **Conference**: APS Meeting - Fluid Dynamics division
+* **Date**: Nov 2021
 
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* **Title**: Hydrodynamic force on a small squirmer moving with a time-dependent velocity at small Reynolds numbers.
+* **Venue**: Conference Hall Milan
+* **Conference**: ICTAM
+* **Date**: Aug 2021
+
+* **Title**: Flow field induced by a small squirmer moving with a time-dependent velocity at small Reynolds numbers.
+* **Venue**: Conference Hall Athens
+* **Conference**: EFMC
+* **Date**: Sept 2022
   
 Teaching
  ======
   <ul>{% for post in site.teaching %}
   - Management of a group of students in charge of  creating an autonomous robot capable of exploring an elastic surface, of measuring its curvature and of responding autonomously with a pre-set policy.
-  - Management of a group of students in charge of calculating the environmental impact of the IRPHE research laboratory in Marseille through LCA assessments of the instrumentation present in the laboratory or purchased. Creation of a data collection system about the environmental impact of the instrumentation used in the laboratory.
     {% include archive-single-cv.html %}
+  - Management of a group of students in charge of calculating the environmental impact of the IRPHE research laboratory in Marseille through LCA assessments of the instrumentation present in the laboratory or purchased. Creation of a data collection system about the environmental impact of the instrumentation used in the laboratory.
   {% endfor %}</ul>
   
