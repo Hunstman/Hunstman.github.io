@@ -16,6 +16,6 @@ I am working at the [Institut de recherches sur les phénomènes hors équilibre
 
 I spent 4 months as a visiting PhD student at the [Kanso Lab](https://sites.usc.edu/kansolab/), at the University of Southern California, working under the supervision of Eva Kanso with his wonderful group of collaborators.
 
-I am Outdoor Sport Lover.
+I am an Outdoor Sport Lover.
 
 **Future**: Seeking job opportunities to exploit statistics and fluid mechanics competences and develop further professional skills.
