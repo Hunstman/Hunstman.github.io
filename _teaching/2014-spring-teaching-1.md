@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience: Robot design and programming"
 collection: teaching
-type: "Undergraduate course"
+type: "Master course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Aix - Marseille University"
+date: Sept-Dec 2020
+location: "Marseille, France"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Management of a group of students in charge of  creating an autonomous robot capable of exploring an elastic surface, of measuring its curvature and of responding autonomously with a pre-set policy.
