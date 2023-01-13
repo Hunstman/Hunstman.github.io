@@ -26,12 +26,12 @@ Education
   * **Supervisor**: Christophe Eloy
   * **Co-supervisor**: Fabien Candelier
   * **Interests**: Fluid inertial effects on microorganisms locomotion, microorganisms tracking abilities 
-* Master Degree in Physics of Complex Systems, Politecnico di Torino e Paris Diderot, 2019 
+* Master of Science in the Physics of Complex Systems, Politecnico di Torino e Paris Diderot, 2019 
   * **Title**: Non Perturbative Renormalization Group Approach to Kraichnan Model: Calculation of the two point Correlation Function
   * **Supervisor**: L. Canet
   * **Interests**: Functional renormalization group. Statistical turbulence.
 
-* B.S. in Physics, Università degli studi di Milano, 2016
+* Bachelor Degree in Physics, Università degli studi di Milano, 2016
 
 
 Publications & preprints
