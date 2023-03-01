@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is Tommaso Redaelli, Ph.D. graduate in Physics (Fluid Mechanics and Biophysics) at the University of Aix-Marseille, France. I obtained my BSc in Physics at the Università degli Studi di Milano and my MSc in the [Physics of Complex Systems](http://www.pcs.polito.it/) at the Politecnico di Torino. 
+**Tommaso Redaelli
+
+Ph.D. graduate in Physics (Fluid Mechanics and Biophysics) at the University of Aix-Marseille, France. 
+
+I obtained my BSc in Physics at the Università degli Studi di Milano and my MSc in the [Physics of Complex Systems](http://www.pcs.polito.it/) at the Politecnico di Torino. 
+
 Durign my master I spent a semester in Trieste at [S.I.S.S.A.](https://www.sissa.it/)  and [I.C.T.P](https://www.ictp.it/), a semester in Torino at [Polito](https://www.polito.it/) and a semester in Paris at [Paris-Sud](https://www.universite-paris-saclay.fr/), [Sorbonne Université](https://www.sorbonne-universite.fr/en) and [Paris-Diderot](https://u-paris.fr/).
 
 
