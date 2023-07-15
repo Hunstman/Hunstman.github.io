@@ -1,6 +1,8 @@
 ---
 title: "Skyrunning"
-excerpt: "First passion of my life. 1<br/><img src='/images/Skyrunning.png'>"
+excerpt: "First passion of my life. 
+
+<br/><img src='/images/Skyrunning.png'>"
 collection: portfolio
 ---
 
